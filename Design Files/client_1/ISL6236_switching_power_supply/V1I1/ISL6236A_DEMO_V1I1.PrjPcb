@@ -87,10 +87,14 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
 [GeneratedDocument1]
-DocumentPath=ISL6236A_DEMO.csv
+DocumentPath=Project Outputs for ISL6236A_DEMO_V1I1\Design Rule Check - ISL6236A_DEMO.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
+DocumentPath=ISL6236A_DEMO.csv
+DItemRevisionGUID=
+
+[GeneratedDocument3]
 DocumentPath=ISL6236A_DEMO.rep
 DItemRevisionGUID=
 
